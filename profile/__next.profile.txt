@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[9273,["https://nummunoil.github.io/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","https://nummunoil.github.io/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"default"]
-3:I[79601,["https://nummunoil.github.io/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","https://nummunoil.github.io/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"default"]
-0:{"buildId":"4YhoRUnFbO1Y_L39zqKL7","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[9273,["/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"default"]
+3:I[79601,["/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"default"]
+0:{"buildId":"1LAiunSwW_nZIFmb9f4Ys","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
