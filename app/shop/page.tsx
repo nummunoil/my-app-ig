@@ -1,5 +1,9 @@
 "use client";
 
 export default function ShopPage() {
-  return <div>shop</div>;
+  return (
+    <div className="flex min-h-screen items-center justify-center">
+      <span>shop</span>
+    </div>
+  );
 }
