@@ -8,9 +8,9 @@ export default function LayoutClient({
   children: React.ReactNode;
 }) {
   return (
-    <>
+    <div className="bg-white min-h-screen">
       {children}
       <BottomNav />
-    </>
+    </div>
   );
 }

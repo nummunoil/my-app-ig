@@ -32,7 +32,11 @@ const ProfileTabBar = () => {
           </button>
         ))}
       </div>
-      {activeTab === "posts" ? <ProfilePostsGrid /> : <div>Tagged</div>}
+      {activeTab === "posts" ? (
+        <ProfilePostsGrid />
+      ) : (
+        <div className="flex items-center justify-center p-4">Tagged</div>
+      )}
     </>
   );
 };
