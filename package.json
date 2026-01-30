@@ -6,8 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "serve out",
-    "lint": "eslint",
-    "deploy": "pnpm build && gh-pages -d out"
+    "postbuild": "touch out/.nojekyll",
+    "deploy": "pnpm run build && node -e \"require('fs').writeFileSync('out/.nojekyll','')\" && gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "lucide-react": "^0.563.0",
