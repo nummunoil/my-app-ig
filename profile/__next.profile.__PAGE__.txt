@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[66758,["/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"ClientPageRoot"]
-3:I[2153,["/my-app-ig/_next/static/chunks/1e5649b78f6b26b7.js","/my-app-ig/_next/static/chunks/58ac0239d7612898.js"],"default"]
-6:I[19773,["/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"OutletBoundary"]
+2:I[66758,["https://nummunoil.github.io/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","https://nummunoil.github.io/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"ClientPageRoot"]
+3:I[2153,["https://nummunoil.github.io/my-app-ig/_next/static/chunks/1e5649b78f6b26b7.js","https://nummunoil.github.io/my-app-ig/_next/static/chunks/58ac0239d7612898.js"],"default"]
+6:I[19773,["https://nummunoil.github.io/my-app-ig/_next/static/chunks/921feee7551e9a7d.js","https://nummunoil.github.io/my-app-ig/_next/static/chunks/a88c2e2416a2cd25.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"eIC6Mvwd37Tb6DzHdosl_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/my-app-ig/_next/static/chunks/58ac0239d7612898.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"4YhoRUnFbO1Y_L39zqKL7","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"https://nummunoil.github.io/my-app-ig/_next/static/chunks/58ac0239d7612898.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
