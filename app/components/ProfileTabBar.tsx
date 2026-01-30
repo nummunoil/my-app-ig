@@ -24,7 +24,7 @@ const ProfileTabBar = () => {
             onClick={() => setActiveTab(id)}
             className={`flex flex-1 items-center justify-center border-b-2 py-3 ${
               activeTab === id
-                ? "border-black text-black dark:border-white dark:text-white"
+                ? "border-black text-black"
                 : "border-transparent text-zinc-400"
             }`}
           >
