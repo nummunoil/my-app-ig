@@ -41,7 +41,7 @@ const NavIcon = ({
           active ? "border-black" : "border-zinc-300"
         } `}
       >
-        <Icon size={22} />;
+        <Icon size={22} />
       </div>
     );
   }
